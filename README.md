@@ -1,3 +1,1 @@
-Hey guys can you change this??
-NICE
-Jacob Was Here, so was Felix
+Welcome to Bundle, a Python-based budgeting tool to help you make financially wise choices and reach your goals. This program features a user-friendly and interactive UI, as well as a robust back-end powered by Flask, jinja, and MySQL. With Bundle, you can login or register an account to manage your expenses and income, and create personalized goals to track your progress. Whether you're looking to save money, pay off debt, or invest in your future, Bundle has the tools and features you need to succeed. Give it a try today and take control of your finances!
